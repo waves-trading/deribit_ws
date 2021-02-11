@@ -6,7 +6,7 @@ setuptools.setup(
     author="w3tech",
     author_email="ashitik@web3tech.ru",
     description="Player executors package",
-    packages=["deribit"],
+    packages=["deribit_ws"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
